@@ -5,7 +5,7 @@ Shift Baru: F
 
 # Tugas 1 Pertemuan 2
 Screenshot Tampilan Aplikasi:  
-![Output](https://github.com/user-attachments/assets/2e95014f-a43d-47da-b90b-90d962961c89)
+![Tugas_1](https://github.com/user-attachments/assets/b46804d7-d3cb-4bb8-ab24-28a9ad1d8cb1)
 
 # Tugas 2 Pertemuan 3
 Video/GIF Demo Aplikasi:  
