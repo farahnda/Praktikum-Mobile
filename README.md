@@ -17,4 +17,4 @@ Video/GIF Demo Aplikasi:
 
 # Tugas 4 Pertemuan 5
 Video/GIF Demo Aplikasi:  
-![Demo Aplikas Tugas 4](https://github.com/user-attachments/assets/4e12fb73-b063-47b1-90a7-6bd26527305f)
+![Demo Aplikas Tugas 4](https://github.com/user-attachments/assets/600d7eb1-49a0-44b8-ae7b-b5c3e2d0f20e)
