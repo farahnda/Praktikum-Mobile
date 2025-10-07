@@ -65,6 +65,11 @@
         Proyek, Database Administrator), Wirausahawan
         Informatika dan Dosen/Peneliti.
     </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="book">
+        Koleksi Buku
+    </string>
 
 </resources>
 
